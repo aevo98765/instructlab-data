@@ -122,11 +122,11 @@ const response = await agent
   .run({ prompt: "What's the current weather in Las Vegas?" })
   .observe((emitter) => {
     emitter.on("update", async ({ data, update, meta }) => {
-      console.log(`Agent (${update.key}) 🤖 : `, update.value);
+      console.log(`Agent (${update.key}): `, update.value);
     });
   });
 
-console.log(`Agent 🤖 : `, response.result.text);
+console.log(`Agent: `, response.result.text);
 ```
 
 See a more [advanced example](/examples/agents/bee.ts).
