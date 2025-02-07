@@ -2,7 +2,7 @@
 
 ### Open-source framework for building, deploying, and serving powerful multi-agent workflows at scale.
 
-**Bee Agent Framework** is an open-source TypeScript library for building **production-ready multi-agent systems**. Pick from a variety of [LLM providers](/docs/llms.md#providers-adapters), customize the [prompt templates](/docs/templates.md), create [agents](/docs/agents.md), equip agents with pre-made [tools](/docs/tools.md), and orchestrate [multi-agent workflows](/docs/workflows.md)! 🪄
+**Bee Agent Framework** is an open-source TypeScript library for building **production-ready multi-agent systems**. Pick from a variety of [LLM providers](/docs/llms.md#providers-adapters), customize the [prompt templates](/docs/templates.md), create [agents](/docs/agents.md), equip agents with pre-made [tools](/docs/tools.md), and orchestrate [multi-agent workflows](/docs/workflows.md)!
 
 ## Latest updates
 
